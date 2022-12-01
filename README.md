@@ -1,4 +1,8 @@
-# Cool recipes 
+# > A recipe has no soul. You as the cook must bring soul to the recipe.
+– Thomas Keller
+<br />
+> some quote
+<br />
 Beef Wellington
 (time pic) 2 hours
 (lvl pic) challenge
