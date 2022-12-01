@@ -38,5 +38,9 @@ Step 17. <br /> Glaze all over with more egg yolk and, using the back of a knife
 Step 18. <br /> Chill for at least 30 mins and up to 24 hrs. Heat oven to 200C/fan 180C/gas 6.<br /> <br /> 
 Step 19. <br /> Brush the Wellington with a little more egg yolk and cook until golden and crisp – 20-25 mins for medium-rare beef, 30 mins for medium. Allow to stand for 10 mins before serving in thick slices.<br /> <br /> 
 
+### Sample end result
 <img src="/images/beef.png" alt="beef">
 
+##### Sources
+* Recipe from [BBC goodfood](https://www.bbcgoodfood.com/recipes/beef-wellington)
+* Pic from [wikipedia](https://en.wikipedia.org/wiki/Beef_Wellington)
